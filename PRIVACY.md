@@ -80,7 +80,7 @@ We may update this privacy policy from time to time. Changes will be posted in t
 
 For privacy concerns or questions, please contact:
 - GitHub: [Create an issue](https://github.com/yourusername/x-read-aloud)
-- Support: [Buy me a Coffee](https://buymeacoffee.com/pbessa)
+- Support: pintobessa.pedro@gmail.com
 
 ## Compliance
 
